@@ -1,43 +1,41 @@
-# Pizza Dough Recipe
+# Ooni Neapolitan-Style Pizza Dough
 
-Neapolitan-style pizza dough, with scaling notes and a yeast reference.
+Classic Naples-style dough (just flour, water, salt, yeast) for a thin base with
+a puffy, chewy-yet-crisp crust. Higher hydration and a long ferment for flavor.
+Mixer method, instant dried yeast.
 
-## Base recipe — 6 pizzas (350g each)
+Source: https://ooni.com/blogs/recipes/ooni-neapolitan-style-pizza-dough
 
-| Ingredient       | Amount                                                |
-|------------------|-------------------------------------------------------|
-| Lukewarm water   | 774g                                                  |
-| Fresh yeast      | 40g (or 13g instant dried, or 20g active dried)       |
-| Salt             | 40g                                                   |
-| 00 flour         | 1290g                                                 |
+Note: this is a long-ferment recipe (~25 hours total) and balls at 12-14", not
+16". For a same-day 16" bake, use the Ooni Classic recipe instead.
 
-## Scaled to 5 pizzas (350g each)
+## Base recipe
 
-Each ingredient multiplied by 5/6.
+| Ingredient            | Amount            |
+|-----------------------|-------------------|
+| 00 flour              | 1200g             |
+| Water                 | 780g (700g + 80g) |
+| Salt                  | 36g               |
+| Instant dried yeast   | 3.6g              |
 
-| Ingredient       | Amount                                                |
-|------------------|-------------------------------------------------------|
-| Lukewarm water   | 645g                                                  |
-| Fresh yeast      | 33g (or 11g instant dried, or 17g active dried)       |
-| Salt             | 33g                                                   |
-| 00 flour         | 1075g                                                 |
+Total dough: ~2016g. Hydration 65%, salt 3%.
+
+Yield: 8 × 250g balls (12") or 6 × 336g balls (14").
+
+## Method (mixer)
+
+1. Add the flour to the mixer bowl.
+2. Dissolve the yeast in the 700g of water. In the remaining 80g of water,
+   dissolve the salt (added later so it doesn't slow the yeast).
+3. Mix at low speed (~15% / 90 rpm), pour in the yeast water, and bring together.
+   Work in the salt water in stages with short rests to develop the gluten.
+4. Bulk ferment at room temperature (16-20°C) for 18-20 hours, until well risen.
+5. Divide into 250g (12") or 336g (14") balls.
+6. Final proof 5-6 hours, until doubled.
+7. Heat the oven to 400-450°C and bake each pizza 1-2 minutes.
 
 ## Yeast notes
 
-The Norwegian dried yeast in use (Idun) is **instant dried yeast**.
-
-How to tell:
-- The box says "Bland gjæren direkte i melblandingen" (mix the yeast directly
-  into the flour) — that's the instant-yeast instruction. Active dried yeast
-  must first be dissolved/activated in warm water.
-- Liquid is added at up to 37°C, the standard activation temperature.
-
-For the 5-pizza batch, use the instant dried column: **11g**.
-
-### Idun conversion reference (from the box)
-
-- 50g fresh yeast = 1 sachet dried yeast
-- 25g fresh yeast ≈ 2 tsp dried yeast
-- 1 sachet dried yeast ≈ 4.5 tsp
-- 1 tsp dried yeast ≈ 3g
-- 1 tbsp dried yeast ≈ 8g
+Source lists 3.6g yeast; using instant dried, mix it straight into the water (no
+separate activation). The dose is low because the long 18-20 hour bulk ferment
+does the work. For Idun instant dried yeast, 1 tsp ≈ 3g.
