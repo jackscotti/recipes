@@ -6,6 +6,8 @@ Mixer method, instant dried yeast.
 
 Source: https://ooni.com/blogs/recipes/ooni-neapolitan-style-pizza-dough
 
+**Makes: 8 × 12" pizzas (250g balls) or 6 × 14" pizzas (336g balls).**
+
 Note: this is a long-ferment recipe (~25 hours total) and balls at 12-14", not
 16". For a same-day 16" bake, use the Ooni Classic recipe instead.
 
@@ -46,6 +48,8 @@ less fermented flavor.
 | Water                 | 780g    | 65%       |
 | Salt                  | 36g     | 3%        |
 | Instant dried yeast   | ~5g     | ~0.4%     |
+
+Makes the same as the base recipe: 8 × 12" (250g balls) or 6 × 14" (336g balls).
 
 Method: mix as in the Classic recipe, bulk ferment warm ~2 hours until risen,
 divide and ball, then proof ~2-3 hours until doubled. Total ~4-6 hours.

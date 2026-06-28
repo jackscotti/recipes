@@ -6,6 +6,8 @@ makes 16" pizzas.
 
 Source: https://ooni.com/blogs/recipes/ooni-classic-pizza-dough
 
+**Makes: 6 × 16" pizzas (350g dough balls).**
+
 ## Base recipe — 6 pizzas (350g each, 16")
 
 | Ingredient            | Amount  |
