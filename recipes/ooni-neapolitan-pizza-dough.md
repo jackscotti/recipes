@@ -34,6 +34,26 @@ Yield: 8 × 250g balls (12") or 6 × 336g balls (14").
 6. Final proof 5-6 hours, until doubled.
 7. Heat the oven to 400-450°C and bake each pizza 1-2 minutes.
 
+## Same-day variant
+
+The long bulk ferment above is mostly about flavor. To bake the same day, keep
+the Neapolitan ratios but use more yeast and a short warm rise. Expect a little
+less fermented flavor.
+
+| Ingredient            | Amount  | Baker's % |
+|-----------------------|---------|-----------|
+| 00 flour              | 1200g   | 100%      |
+| Water                 | 780g    | 65%       |
+| Salt                  | 36g     | 3%        |
+| Instant dried yeast   | ~5g     | ~0.4%     |
+
+Method: mix as in the Classic recipe, bulk ferment warm ~2 hours until risen,
+divide and ball, then proof ~2-3 hours until doubled. Total ~4-6 hours.
+
+The yeast goes up (~5g vs 3.6g) to make up for cutting ~20 hours of ferment.
+Note that 65% hydration is wetter and stickier to stretch and launch than the
+60% Classic, especially at larger sizes.
+
 ## Yeast notes
 
 Source lists 3.6g yeast; using instant dried, mix it straight into the water (no
