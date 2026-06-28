@@ -55,8 +55,18 @@ less fermented flavor.
 Makes the same as the base recipe: 8 × 12" (250g), 6 × 14" (336g), or ~5 × 16"
 (350g balls). For a clean 6 × 16", scale up as noted in the base recipe.
 
-Method: mix as in the Classic recipe, bulk ferment warm ~2 hours until risen,
-divide and ball, then proof ~2-3 hours until doubled. Total ~4-6 hours.
+### Method (mixer)
+
+1. Dissolve the yeast in most of the water, and the salt in the rest.
+2. Add the flour to the mixer bowl. Mix at low speed (~15% / 90 rpm) and pour in
+   the yeast water, then work in the salt water in stages with short rests until
+   the dough is smooth and developed.
+3. Cover and bulk ferment in a warm spot ~2 hours, until well risen.
+4. Divide and ball: 350g for 16", 336g for 14", or 250g for 12".
+5. Place each ball in a floured dough box and proof ~2-3 hours, until doubled.
+6. Heat the oven to 400-450°C and bake each pizza 1-2 minutes.
+
+Total time ~4-6 hours.
 
 The yeast goes up (~5g vs 3.6g) to make up for cutting ~20 hours of ferment.
 Note that 65% hydration is wetter and stickier to stretch and launch than the
