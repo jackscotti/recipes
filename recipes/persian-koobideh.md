@@ -69,3 +69,10 @@ sangak with herbs and yogurt.
 - **Fattier mince is better** — lean mince dries out over high heat.
 - A great swap when the butcher has no boneless cut for shish kebab: mince needs
   no deboning and no long marinade.
+- **Want more spice?** The base seasoning is deliberately restrained. For more
+  depth, knead in 1/2 tsp turmeric, a crushed garlic clove or two, and 1 tsp
+  dried mint. For a fuller flavour, add ~1 1/2 tsp advieh (Persian spice blend):
+  1 tsp cumin, 1 tsp coriander, 1/2 tsp cinnamon, and 1/4 tsp cardamom, plus a
+  pinch of dried rose petals if you have them. A pinch of chilli flakes or
+  cayenne adds heat. Mix any extra spices in at the kneading stage so they
+  distribute evenly.
