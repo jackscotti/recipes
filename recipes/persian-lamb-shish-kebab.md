@@ -71,3 +71,15 @@ work is minimal.
   skewer.
 - Wrap the grilled kebabs in the warm sangak straight off the heat and let them
   steam together for a minute before serving.
+- **No grill? Any high, dry heat works.** A screaming-hot cast iron pan gives the
+  closest char (cook in batches, don't crowd, and cook the cubes loose off the
+  skewers); an air fryer at 200°C for ~10-12 minutes is the easiest and cleanest,
+  turning halfway, though with a little less char; or the oven grill/broiler on
+  its highest setting with the meat on a rack near the element.
+- **Only bone-in lamb available?** Ask the butcher to cube it bone-in (buy ~1kg
+  to yield ~800g of meat), cook the pieces loose rather than skewered, and give
+  them a few extra minutes at slightly gentler heat so the meat near the bone
+  cooks through.
+- **No boneless cut at all?** Switch to koobideh (see `persian-koobideh.md`) —
+  minced lamb needs no deboning and no long marinade, and suits the same sangak,
+  herbs, and yogurt spread.
