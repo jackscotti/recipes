@@ -47,3 +47,27 @@ with za'atar and finished with nigella seeds.
 8. Cook each flatbread in a pan on high heat until charred on both sides.
 
 9. Sprinkle nigella seeds on top before serving.
+
+---
+
+## Notes
+
+- **No za'atar?** Substitute 1 tbsp dried oregano mixed with sesame seeds (plus a
+  pinch of sumac if you have it) — it gives the same herby, seedy note.
+- **Proving is flexible.** 90 minutes is the minimum. The dough is happy to go
+  2-3 hours at warm room temperature, or cover and refrigerate overnight (up to
+  ~24 hours) for better flavour — bring it back to room temperature before
+  shaping.
+- **Cook it nearly dry.** Sangak is traditionally stone-baked, so use a dry or
+  barely-oiled pan — the oil used to stretch the dough is enough. A heavily oiled
+  pan fries the surface greasy instead of charring it.
+- **Use neutral oil in the pan, not EVOO.** At the high heat needed to char the
+  bread, extra-virgin olive oil smokes and turns bitter; keep it for the dough
+  and stretching, and only wipe in a little sunflower, vegetable, or light olive
+  oil if the bread sticks.
+- **Keep them warm and soft** by stacking the cooked breads under a clean tea
+  towel — the trapped steam keeps them pliable for wrapping.
+- **Cook the bread before any meat** if you're sharing a pan, then wipe the pan
+  out — leftover fat and burnt bits make later breads greasy and acrid.
+- **To scale for 4**, a half batch (250g flour, ~8 flatbreads) is plenty; halve
+  the other ingredients accordingly.
